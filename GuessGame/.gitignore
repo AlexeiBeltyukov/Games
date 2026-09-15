@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+*.o
+*.exe
+*.a
+*.layout
+*.depend
+default.conf

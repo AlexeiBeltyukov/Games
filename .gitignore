@@ -1,0 +1,11 @@
+﻿
+bin/
+obj/
+*.o
+*.a
+*.exe
+*.layout
+*.depend
+default.conf
+Thumbs.db
+.DS_Store
